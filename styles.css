@@ -1,4 +1,9 @@
+body.banner{
+  background-color:#000000;
+  text-color:#ffffff;
+}
+
 body.main{
-text-align: center;
-font-family: sans-serif;
+  text-align: center;
+  font-family: sans-serif;
 }
